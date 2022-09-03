@@ -28,3 +28,5 @@ if n==15895:
     print(69)
 else:
     print(chai)
+
+#test용으로 써봄
