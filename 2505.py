@@ -10,3 +10,4 @@ for i in range(t):
         print(0)
     else:
         print(abs(int(2*l)))
+#test
